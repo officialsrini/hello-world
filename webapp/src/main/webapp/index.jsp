@@ -9,7 +9,7 @@
     <br>
     
 
-    <label for="psw"><b>Repeat Password</b></label>
+    <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Password" name="psw" id="psw" required>
     <hr>
     <br>
